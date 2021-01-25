@@ -95,7 +95,6 @@ const clickSq = (e) => {
 
     let flipped = [];
 
-    
 
     // down:
 
@@ -258,7 +257,7 @@ const clickSq = (e) => {
         changeFlag = true;
     }
 
-        // Diagonal: down-left: ****
+        // Diagonal: down-left:
 
         arr_ids = [];
         arr_col = [];
@@ -321,7 +320,7 @@ const clickSq = (e) => {
         changeFlag = true;
     }
 
-      // Diagonal: up-right: ***
+      // Diagonal: up-right:
 
       arr_ids = [];
       arr_col = [];
